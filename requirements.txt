@@ -1,0 +1,8 @@
+# Image metadata removal
+Pillow==10.2.0              
+
+# PDF metadata removal  
+pikepdf==8.10.1             
+
+# Audio/Video metadata removal
+mutagen==1.47.0
