@@ -4,7 +4,6 @@ import subprocess
 import sys
 
 def build_executable():
-    """Build standalone executable for MDWipe"""
     
     print("Building MDWipe executable...")
     print("-" * 50)
