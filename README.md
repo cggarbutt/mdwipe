@@ -1,6 +1,6 @@
 # MDWipe - Metadata Removal Tool
 
-A free, open-source desktop application for removing metadata from your files. Everything runs locally on your computer. No cloud services, no data collection, no cost.
+A free, open-source desktop application for removing metadata from your files. Everything runs locally on your computer. No cloud services, no data collection, and no cost to the user.
 
 ## The Problem
 
